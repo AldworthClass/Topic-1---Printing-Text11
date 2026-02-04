@@ -11,7 +11,7 @@
             Console.WriteLine();
             Console.Write("Computers ");
             Console.WriteLine("Rule");
-            
+
             Console.WriteLine("Press ENTER to continue");
             Console.ReadLine();
             Console.BackgroundColor = ConsoleColor.Green;
