@@ -11,6 +11,7 @@
             Console.WriteLine();
             Console.Write("Computers ");
             Console.WriteLine("Rule");
+            Console.WriteLine();
 
             Console.WriteLine("Press ENTER to continue");
             Console.ReadLine();
